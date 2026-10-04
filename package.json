@@ -1,0 +1,14 @@
+{
+  "name": "mermail-invoice-payer",
+  "version": "1.0.0",
+  "description": "Auto pay invoices from mermail inbox - Solana + M-Pesa Daraja",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mermail", "skill", "invoice", "solana", "mpesa", "daraja"],
+  "author": "pethuelkiprotich31-lab",
+  "license": "MIT",
+  "dependencies": {}
+}
